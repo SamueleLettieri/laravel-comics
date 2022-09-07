@@ -10924,3 +10924,54 @@ header .ms_titolo {
   color: white;
   padding-top: 20px;
 }
+
+main .ms_background-blue {
+  background-color: rgb(0, 110, 255);
+}
+main .ms_font {
+  font-size: 12px;
+}
+main .ms_img {
+  width: 25%;
+}
+main .ms_img-locator {
+  width: 17%;
+}
+main .ms_link {
+  color: white;
+  text-decoration: none;
+}
+main .ms_main {
+  background-image: url(../assets/footer-bg.jpg);
+  height: 400px;
+}
+main h3, main .h3 {
+  color: white;
+  font-size: 20px;
+  padding-bottom: 2px;
+}
+main .ms_d-flex-collum {
+  width: 55%;
+  height: 345px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+main ul {
+  padding-left: 0;
+}
+main a {
+  text-decoration: none;
+  color: rgb(158, 156, 156);
+  font-size: 12px;
+}
+main .ms_img-Dc-box {
+  height: 400px;
+  width: 37%;
+}
+main .ms_img-Dc {
+  width: 510px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: 100%;
+}
