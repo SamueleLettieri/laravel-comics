@@ -1,1 +1,82 @@
 //
+@import "~bootstrap/scss/bootstrap.scss";
+
+
+    
+header{
+    background-color: white;
+  
+    img{
+        width: 80%;
+        padding: 10px 0px 15px 0px;
+    }
+    ul{
+    margin: 0;
+    }
+    li{
+        display: inline-block;
+        padding: 39px 0px 49px 0px;
+        margin-left: 10px;
+        line-height: normal;
+        font-size: 12px;
+    }
+    .active{
+        border-bottom:4px solid rgb(0, 110, 255);
+        line-height: normal;
+    }
+    .ms_activ-link{
+        color: rgb(0, 110, 255);
+    }
+    a{
+        text-decoration: none;
+        color: black;
+    }
+
+
+    .ms_background-img{
+        height: 400px;
+        object-fit: cover;
+        object-position: top;
+        width: 100%;
+        padding: 0;
+    }
+    .ms_background-color{
+      background-color: rgb(41, 41, 41);
+    }
+    h3{
+      position: relative;
+      bottom: 45px;
+    }
+    .ms_boxt-text{
+      color: white;
+      background-color: rgb(0, 110, 255);
+      display: inline-block;
+      padding: 7px 25px;
+      text-decoration: none;
+    }
+    .ms_box{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+    }
+    
+    .ms_margin{
+        width: calc((100% / 6) - 30px);
+       margin: 0 15px;
+       margin-bottom: 60px;
+    }
+    a{
+        text-decoration: none;
+    }
+    .ms_img{
+       object-fit: cover;
+       object-position: top;
+       width: 190px;
+       height: 180px;
+    }
+    .ms_titolo{
+       color: white;
+       padding-top: 20px;
+    }
+     
+}
