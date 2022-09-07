@@ -1,4 +1,5 @@
 <header>
+        <div class="p-2 ms_color_b text-end"><a class="ms_link" href="#"><div class="container"><span class="mx-2">DC POWER VISA®</span> <span class="mx-2">ADDITIONAL DC SITES▼</span></div></a></div>
         <div class="container">
             <div class="d-flex justify-content-between ">
                 <div class=""><img src="{{asset('assets/dc-logo.png')}}" alt=""></div>

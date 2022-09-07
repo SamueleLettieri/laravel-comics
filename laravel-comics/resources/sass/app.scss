@@ -2,10 +2,19 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
 
-    
+
 header{
     background-color: white;
-  
+    
+    .ms_color_b{
+        background-color: rgb(0, 110, 255);
+    }
+
+    .ms_link{
+        color: white;
+        font-size: 10px;
+    }
+
     img{
         width: 80%;
         padding: 10px 0px 15px 0px;
