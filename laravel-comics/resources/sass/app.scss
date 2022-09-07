@@ -137,3 +137,19 @@ main{
     }
 
 }
+
+
+footer{
+    background-color: rgb(61, 61, 61);
+
+    .ms_border-button{
+        border: 2px solid rgb(0, 110, 255);
+    }
+    .ms_link{
+        color: white;
+        text-decoration: none;
+    }
+    .ms_color{
+        color:rgb(0, 110, 255);
+    }
+}
